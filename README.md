@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm AJhay</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
-
 - 🔭 I’m currently working on **CRUD e-commerce website using MERN stack**
 
 - 🌱 I’m currently learning ** Node.js | Express.js | MongoDB |**
